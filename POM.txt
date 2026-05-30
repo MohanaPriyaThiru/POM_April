@@ -1,0 +1,10 @@
+// Create page folder
+//create class for the particular page
+export class classname{
+    constructor(page){
+        Locators
+    }
+    async function(){
+        methods
+    }
+}
